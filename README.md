@@ -1,2 +1,3 @@
 # Predicting-House-Pricing
 L’obiettivo dello studio è stata la minimizazione del MAE (mean absolute prediction error) attraverso l’utilizzo di modelli statistici e di machine learning. Il lavoro si è concentrato prevalentemente nell’analisi esplorativa e nel feature engineering mentre il tuning dei parametri non è stato molto approfondito sia per questioni computazionali sia per miglioramenti non sostanziali.
+The main goal of this project was to predict the final price of houses in a certain zone in the USA through Machine learning techniques. The metric used to evaluate the models was the Mean Absolute Error (MAE), to achieve my final goals the most relvant part in the pipeline were the exploratory data analysis and the feature engineering.  
